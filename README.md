@@ -1,4 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>🔍 Predicting Sepsis with FastAPI 🔬</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+            color: #333;
+            padding: 20px;
+        }
 
+        h1 {
+            color: #007bff;
+        }
+
+        h2 {
+            color: #6c757d;
+        }
+
+        code {
+            background-color: #f8f9fa;
+            padding: 2px 4px;
+            border-radius: 4px;
+        }
+
+        pre {
+            background-color: #f8f9fa;
+            padding: 10px;
+            border-radius: 8px;
+            overflow-x: auto;
+        }
+
+        pre code {
+            display: block;
+            white-space: pre;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: auto;
+        }
+
+        .container img {
+            width: 100%;
+            height: auto;
+            display: block;
+            margin: auto;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
         <h1>🔍 Predicting Sepsis with FastAPI 🔬</h1>
         <p>Predicting-Sepsis-FastAPI is a state-of-the-art solution designed to swiftly predict sepsis, a critical medical condition requiring prompt diagnosis and intervention. Leveraging FastAPI, this project offers a robust and efficient system for predicting the likelihood of sepsis based on various input parameters. The underlying machine learning model has been meticulously trained to provide accurate predictions, facilitating timely and informed decisions for healthcare professionals.</p>
         <h2>Project Structure</h2>
