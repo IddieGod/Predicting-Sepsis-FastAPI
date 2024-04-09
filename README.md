@@ -54,6 +54,8 @@ PREDICTING-SEPSIS-FASTAPI/
         <ul>
             <li>Email: maanenyi.iddriss@azubiafrica.org</li>
             <li>GitHub: <a href="https://github.com/IddieGod/Predicting-Sepsis-FastAPI">IddieGod/Predicting-Sepsis-FastAPI</a></li>
+            <li>FastAPI:  <a href="http://127.0.0.1:8000/docs">Follow this link to view documentation</a></li>
+
         </ul>
     </div>
 </body>
