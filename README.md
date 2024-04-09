@@ -98,6 +98,9 @@ PREDICTING-SEPSIS-FASTAPI/
         <h2>Running FastAPI</h2>
         <p>To run the project, execute the following command at the repository root:</p>
         <pre><code>python src/app.py</code></pre>
+
+ <pre><code>Follow this link to explore the api's documentations: http://127.0.0.1:8000/docs</code></pre>
+
         <h2>Article</h2>
         <p>For further insights, refer to the article linked <a href="https://www.linkedin.com/pulse/deploying-sepsis-prediction-api-using-fastapi-guide-maanenyi-nyande-vtbbf">here</a>.</p>
         <h2>Contribution</h2>
